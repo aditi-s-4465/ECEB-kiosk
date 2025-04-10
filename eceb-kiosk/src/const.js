@@ -203,20 +203,21 @@ export const whyCareData = [
 
 export const events = [
   {
+    title: "Earth Day Drawing",
+    description:
+      "Fill out this short survey and get the chance to win a portable solar charger!",
+    image: "SolarPhoneCharger.png",
+    qrcode: "actgreen_2025.png",
+    dates: "April 2025",
+  },
+
+  {
     title: "Campus Transportation Survey 2025",
     description:
       "Take the Campus Transportation Survey and ensure that feedback about your commuting experiences and travel observations will help prioritize future infrastructure improvements and programmatic support at the U. of I.",
     image: "campus_bus.jpg",
     qrcode: "transportation_surveyqr.png",
     dates: "April. 6",
-  },
-  {
-    title: " Using Photography for Social Change",
-    description:
-      "Join acclaimed artist LaToya Ruby Frazier for her upcoming lecture Art as Transformation: Using Photography for Social Change on March 26, 2025.",
-    image: "bus_env.jpg",
-    qrcode: " ",
-    dates: "Mar. 26",
   },
   {
     title: "Volunteer for Bike for Earth Day",
